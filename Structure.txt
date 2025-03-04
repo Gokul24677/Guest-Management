@@ -1,0 +1,9 @@
+guest_management/
+├── uploads/           # Photo storage (security risk)
+├── index.html         # Main page
+├── admin_login.html   # Login form
+├── admin_login.php    # Login handler
+├── dbconn.php         # Database config
+├── generate_pass.php  # Pass generator
+├── view_visitors.php  # Visitor list
+└── assets/            # Static resources
